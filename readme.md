@@ -1,3 +1,3 @@
-# Day-58 of 100 days of Python
+# Bootstrap
 
 ![](Example.gif)
